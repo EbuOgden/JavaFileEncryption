@@ -1,4 +1,4 @@
-# JavaFileEncryption
+# Java File Encryption
 
 Java File Encryption
 
